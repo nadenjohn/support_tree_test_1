@@ -1,6 +1,6 @@
 # support_tree_test_1
 
-A new Flutter project.
+Flutter project testing out calendar functionality
 
 ## Getting Started
 
